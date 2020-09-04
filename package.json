@@ -1,6 +1,6 @@
 {
   "name": "ember-template-lint-plugin-discourse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Discourse shareable ember-template-lint plugin",
   "main": "index.js",
   "repository": {
