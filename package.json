@@ -1,21 +1,15 @@
 {
   "name": "ember-template-lint-plugin-discourse",
-  "version": "1.0.1",
+  "version": "2.0.0",
+  "author": "Joffrey Jaffeux",
   "description": "Discourse shareable ember-template-lint plugin",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/discourse/ember-template-lint-plugin-discourse.git"
-  },
+  "repository": "https://github.com/discourse/ember-template-lint-plugin-discourse",
+  "homepage": "https://github.com/discourse/ember-template-lint-plugin-discourse#readme",
   "keywords": [
     "hbs",
     "handlebars",
     "htmlbars",
     "discourse"
-  ],
-  "author": "Joffrey Jaffeux",
-  "bugs": {
-    "url": "https://github.com/discourse/ember-template-lint-plugin-discourse/issues"
-  },
-  "homepage": "https://github.com/discourse/ember-template-lint-plugin-discourse#readme"
+  ]
 }
