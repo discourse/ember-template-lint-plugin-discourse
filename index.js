@@ -11,7 +11,6 @@ module.exports = {
       extends: ["recommended", "stylistic"],
 
       rules: {
-        "eol-last": "always",
         "no-positive-tabindex": false,
         "no-autofocus-attribute": false,
 
@@ -29,6 +28,12 @@ module.exports = {
         "require-input-label": false,
         "no-route-action": false,
         "no-action": false,
+
+        // Prettier compatibility
+        "eol-last": false,
+        "self-closing-void-elements": false,
+        "block-indentation": false,
+        "quotes": false,
       },
     },
   },

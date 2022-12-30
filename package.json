@@ -1,6 +1,6 @@
 {
   "name": "ember-template-lint-plugin-discourse",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "author": "Joffrey Jaffeux",
   "description": "Discourse shareable ember-template-lint plugin",
   "main": "index.js",
